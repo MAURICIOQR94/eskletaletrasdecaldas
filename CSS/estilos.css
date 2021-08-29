@@ -1,0 +1,16 @@
+.centrarTxt{
+    text-align: right;
+}
+.containerc{
+    max-width: 600px;
+}
+.parrafo p{
+    text-indent: 25px;
+    text-align: justify;
+}
+.parrafo{
+    max-width: 900px;
+}
+.biografia{
+    text-align: justify;
+}
