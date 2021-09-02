@@ -14,3 +14,9 @@
 .justificar{
     text-align: justify;
 }
+.logo img {
+    max-width: 200px;
+    display: block;
+    margin: 35px auto;
+}
+
