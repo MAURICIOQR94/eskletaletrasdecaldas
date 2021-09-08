@@ -19,16 +19,3 @@
     display: block;
     margin: 35px auto;
 }
-#header img {
-    margin-top: 15px;
-    max-height: 35px;
-    float: right;
-}
-#header a{
-    font-size: 25px !important;
-}
-@media (min-width: 768px) {
-    #header img {
-        max-height: 50px;
-    }
-}
